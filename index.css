@@ -1,0 +1,30 @@
+.row{
+  margin-top: 150px;
+}
+h1{
+  font-size: 70px;
+  color: blue;
+}
+input{
+  margin-top: 10px;
+}
+button{
+  margin-top: 10px;
+}
+form{
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+}
+Body{
+  background-color: whitesmoke;
+}
+a{
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}
+.btn-success{
+  display: block;
+  margin-left: 150px;
+}
